@@ -1,0 +1,8 @@
+prefix=/home/leecham/catkin_ws/install
+
+Name: find_direction
+Description: Description of find_direction
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lfind_direction
+Requires: roscpp std_msgs sensor_msgs geometry_msgs
